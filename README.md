@@ -1,4 +1,4 @@
-![img_06_03_19_09_02](https://github.com/user-attachments/assets/4f319b95-2fc6-4858-8386-ad064d6c3fbf)# face_check
+# face_check
 【表情识别】Python+卷积神经网络算法+人工智能+深度学习+TensorFlow+计算机课设项目+算法模型+图像识别
 
 ## 一、介绍
